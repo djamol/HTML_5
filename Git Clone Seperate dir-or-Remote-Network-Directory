@@ -1,0 +1,6 @@
+Create Network Directory
+net use z: \\computer\sharedfolder
+net use z: \\sambaNetworkIPORDOMAINADDRESS\sharedfolder
+open network directory type cmd in address(File Explorer)
+cd go to project folder
+git clone (http||git)://gitProjectaddress.git --separate-git-dir=C:\GitFile NEWFOLDER
