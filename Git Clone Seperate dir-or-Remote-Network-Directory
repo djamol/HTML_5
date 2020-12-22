@@ -6,4 +6,4 @@ cd go to project folder
 git clone (http||git)://gitProjectaddress.git --separate-git-dir=C:\GitFile NEWFOLDER
 
 
---branch <branchname>
+--single-branch --branch <branchname>
